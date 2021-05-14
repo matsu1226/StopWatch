@@ -44,7 +44,7 @@ h2 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  margin: 10px auto 30px;
+  margin: 10px auto 35px;
   width: 90vw;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
@@ -93,6 +93,6 @@ button {
   text-align: center;
   color: white;
   font-size: 36px;
-  margin: 5px 0;
+  margin: 2px 0;
 }
 /*# sourceMappingURL=style.css.map */
