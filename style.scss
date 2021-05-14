@@ -14,11 +14,12 @@ h2{
     color: white;
     text-align: center;
     font-size: 40px;
+    margin: 20px auto 5px;
 }
 .container {
     width: 100vw;
     height: 100vh;
-    padding: 10px 0px;
+    padding: 5px 0px;
     background-color: black;
     font-family: 'VT323', monospace;
     
@@ -69,7 +70,7 @@ button {
 .notice{
     color: white;
     text-align: center;
-    margin: -30px 0 30px 0;
+    margin: -10px 0 10px 0;
     font-size: 20px;
 }
 
@@ -84,5 +85,5 @@ button {
     text-align: center;
     color: white;
     font-size: 36px;
-    margin: 15px 0;
+    margin: 10px 0;
 }
